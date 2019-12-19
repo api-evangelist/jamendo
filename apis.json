@@ -1,0 +1,97 @@
+{
+    "name": "Jamendo",
+    "description": "Discover free music downloads & streaming from thousands of independent artists. Explore new songs every day, create your own playlists, and share your favorite tracks and albums with our community.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/429-jamendo.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "music"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/jamendo\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Jamendo",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/429-jamendo.jpg",
+            "humanURL": "http:\/\/jamendo.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/jamendo-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/jamendo-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.jamendo.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/artistscorner.jamendo.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/artistscorner.jamendo.com\/rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/jamendo"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/jamendo"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.jamendo.com\/v3.0"
+        },
+        {
+            "type": "Email",
+            "url": "press@jamendo.com"
+        },
+        {
+            "type": "Email",
+            "url": "copyright@jamendo.com"
+        },
+        {
+            "type": "Email",
+            "url": "legal@jamendo.com"
+        },
+        {
+            "type": "Email",
+            "url": "talk-to-us@jamendo.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/jamendo"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/licensing.jamendo.com\/en\/pricing?source=catalog_index"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/licensing.jamendo.com\/en\/pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/jamendo"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/jamendo.com\/"
+        }
+    ]
+}
