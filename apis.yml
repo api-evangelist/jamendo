@@ -39,7 +39,6 @@ apis:
   - name: Jamendo
     description: "Music"
     humanURL: https://developer.jamendo.com/v3.0/docs
-    baseURL: https://developer.jamendo.com/v3.0/docs
     tags:
       - Music
     properties:
